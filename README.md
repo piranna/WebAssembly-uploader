@@ -1,2 +1,2 @@
-# WebAsembler-uploader
-Checker and uploader of WebAsembler code to wasmcpu
+# WebAssembly-uploader
+Checker and uploader of WebAssembly bytecode to [wasmcpu](https://github.com/piranna/wasmcpu)
